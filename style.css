@@ -8,8 +8,8 @@ head {
 }
 
 body {
-  background-color: #fff;
-  
+  background-color: #add8e6;
+  padding-top: 2em;
   .navbar {
     font-size: 1.2em;
     padding: 1em;
