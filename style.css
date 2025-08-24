@@ -36,6 +36,26 @@ body {
     padding-top: 2em;
     display: grid;
     text-color: #add8e6;
+    #about-me {
+      h1 {
+        font-size: 2.5em;
+      }
+      p {
+        font-size: 1.2em;
+      }
+    }
+    #projects {
+      padding-top: 1em;
+      h1 {
+        font-size: 2.5em;
+      }
+      img {
+        width: 100%;
+      }
+    }
+    #contact {
+      
+        
       
       
 
